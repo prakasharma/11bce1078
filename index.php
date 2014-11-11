@@ -3,7 +3,7 @@
 <head>
 	<title>JS Sprint - Run javaScript CSS3 HTML5 online</title>
 
-	<script type="text/javascript" src="./inc/jquery.1.7.1.min.js"></script>
+	<script type="text/javascript" src="./jquery.1.7.1.min.js"></script>
 	
 	<link rel="stylesheet" type="text/css" href="./wJSNova.1.0.css"/>
 	<script type="text/javascript" src="./wJSNova.1.0.js"></script>
